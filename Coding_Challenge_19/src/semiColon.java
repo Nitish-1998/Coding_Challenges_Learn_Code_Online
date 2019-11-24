@@ -2,7 +2,10 @@ public class semiColon
 {
 	public static void main(String[] args) 
 	{
-       System.out.println("Semicolon");
+       if(System.out.printf("%c", 59)!=null)
+       {
+    	   System.out.printf("%c", 59);
+       }
 	}
 
 }
